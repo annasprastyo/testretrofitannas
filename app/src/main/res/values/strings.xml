@@ -1,0 +1,6 @@
+<resources>
+    <string name="app">TestRetrofitAnnas</string>
+    <string name="app_name">Movie Info</string>
+    <string name="api_key">75390fca754a0acca62e69fb7b5462f7</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+</resources>
